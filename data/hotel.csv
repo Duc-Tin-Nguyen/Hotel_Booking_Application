@@ -1,0 +1,17 @@
+name,available_room,available_date,rating,pricePerDay
+Hanoi Grand Hotel,Deluxe Room,2023-12-01,4.5,120
+Hanoi Grand Hotel,Superior Room,2023-12-01,4.5,100
+Hanoi Grand Hotel,Standard Room,2023-12-02,4.5,80
+Da Nang Beach Resort,Sea View Villa,2023-12-01,4.3,200
+Da Nang Beach Resort,Poolside Suite,2023-12-01,4.3,180
+Da Nang Beach Resort,Family Room,2023-12-02,4.3,90
+Saigon Skyline Suites,Executive Suite,2023-12-02,4.8,250
+Saigon Skyline Suites,Deluxe Apartment,2023-12-02,4.8,300
+Saigon Skyline Suites,Standard Studio,2023-12-03,4.8,120
+Ho Chi Minh City Oasis,Standard Room,2023-12-02,4.2,100
+Ho Chi Minh City Oasis,Economy Room,2023-12-03,4.2,80
+Halong Bay Luxury Retreat,Luxury Cabin,2023-12-03,4.7,300
+Halong Bay Luxury Retreat,Premium Suite,2023-12-03,4.7,900
+Halong Bay Luxury Retreat,Classic Room,2023-12-04,4.7,90
+Hue Riverside Resort,River View Bungalow,2023-12-05,4.6,150
+Hue Riverside Resort,Garden Cottage,2023-12-06,4.6,70

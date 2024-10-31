@@ -1,0 +1,1 @@
+SELECT DISTINCT name FROM Hotel WHERE pricePerDay > 500;
